@@ -1,0 +1,38 @@
+TRAV/
+│
+├── frontend/
+│   ├── app.py
+│   ├── pages/
+│   ├── components/
+│   ├── assets/
+│   └── styles/
+│
+├── backend/
+│   ├── api/
+│   ├── auth/
+│   ├── database/
+│   ├── models/
+│   ├── services/
+│   ├── repositories/
+│   └── utils/
+│
+├── ai/
+├── maps/
+├── data/
+├── uploads/
+├── tests/
+├── docs/
+├── scripts/
+│
+├── requirements.txt
+├── .gitignore
+├── .env.example
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+└── LICENSE
+
+
+git add .
+git commit -m "Initial project structure"
+git push
